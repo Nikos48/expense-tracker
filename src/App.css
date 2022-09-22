@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+.Balance {
+}
+.Good.Transaction {
+  background: rgb(180, 250, 180);
+}
+.Bad.Transaction {
+  background: rgb(250, 180, 180);
+}
+.Transaction {
+  height: 10px;
+}
+.table-cell {
+  word-break: break-word;
+  min-width: 70px;
+  padding: 0;
+}
